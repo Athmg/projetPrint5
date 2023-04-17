@@ -3,7 +3,7 @@
 ![maquette images](/assets/images/print-it.png "Maquette acceuil")
 
 #   Print it ! Impressions des entreprises 
-C'est une entreprise basé sur  la création des fichiers à la livraison de des imprimés dans les entreprise.
+C'est une entreprise basé sur la création des fichiers à la livraison des imprimés dans les entreprise.
 
 
 ## Mission
